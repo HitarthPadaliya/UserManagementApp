@@ -1,0 +1,1 @@
+This file is now obsolete as part of the refactoring to simplify the architecture.
